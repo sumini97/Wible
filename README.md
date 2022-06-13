@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+A303 Front
+=======
 ## 기술 스택
 
 ### **Front-end**
@@ -18,3 +21,4 @@
 | <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="NGiNX" width="50px" height="50px" /> | <img src="https://pbs.twimg.com/profile_images/1351702967561252865/aXfcETIt_400x400.jpg" alt="aws" width="50px" height="50px" /> | <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="docker" width="50px" height="50px" /> |
 | :-------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                         NGiNX                                                         |                                                               aws                                                                |                                                           docker                                                             |
+>>>>>>> back
